@@ -1,0 +1,44 @@
+
+  .doctor-details {
+    background-color: var(--color3);
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+
+  .doctor-name {
+    color: var(--color1);
+    font-size: var(--h2-font);
+    font-weight: var(--h2-font-weight);
+    margin-bottom: 20px;
+  }
+
+  .doctor-info {
+    color: var(--color8);
+    font-size: var(--p-font);
+    margin-bottom: 10px;
+  }
+
+  .doctor-about {
+    color: var(--color8);
+    font-size: var(--p-font);
+    line-height: 1.6;
+  }
+
+  .btn-back {
+    background-color: var(--color1);
+    color: white;
+    border: none;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+
+  .btn-back:hover {
+    background-color: var(--color4);
+  }
+  
+  @media (max-width: 768px) {
+    .doctor-details {
+      padding: 20px;
+    }
+  }

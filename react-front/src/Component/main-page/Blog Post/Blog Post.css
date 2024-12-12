@@ -1,0 +1,113 @@
+.blog-sec-1 h1 {
+    font-size: 50px;
+}
+
+.blog-sec-2 {
+    margin-top: 100px;
+}
+
+.blog-sec2-1 img {
+    width: 100%;
+}
+
+.blog-sec2-1 i {
+    color: #005C8D;
+}
+
+.blog-sec2-1 h1 {
+    font-size: 50px;
+    color: #2A3D53;
+}
+
+.blog-sec2-1 h6 {
+    text-decoration: underline;
+    color: #005C8D;
+}
+
+.blog-sec2-2 {
+    position: sticky;
+    top: 0;
+    right: 0;
+    background-image: url('./IMG/blog-stick-vector.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    background-attachment: scroll;
+}
+
+.blog-sec2-2 h2 {
+    color: #005C8D;
+}
+
+.blog-sec2-3 p {
+    border-bottom: 1px solid rgb(189, 189, 189);
+    color: rgb(117, 117, 117);
+    padding-bottom: 12px;
+}
+
+.blog-sec2-3 {
+    border: 1px solid #00B4D8;
+    padding: 30px;
+    border-radius: 13px;
+}
+
+.blog-sec2-3 i {
+    color: #0077B6;
+}
+
+.blog-sec2-4 i {
+    background-color: rgb(220, 220, 220);
+    font-size: 10px;
+    padding: 1px 2px;
+    font-weight: 300;
+}
+
+.blog-sec2-span1 {
+    color: #2A3D53;
+}
+
+.blog-sec2-span2 {
+    color: rgb(117, 117, 117);
+}
+
+.blog-sec3-1 {
+    margin-top: 150px;
+    background-color: #FECC53;
+}
+
+.blog-sec3-1 h1 {
+    color: #2A3D53;
+}
+
+.blog-sec3-1 p {
+    color: #005C8D;
+}
+
+
+
+
+@media screen and (max-width:1106px) {
+    .nav-btn {
+        font-size: 1.2vw;
+        margin-left: 60px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .blog-sec2-2 {
+        display: none;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .blog-sec-1 h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .blog-sec2-1 h1 {
+        font-size: 30px;
+        color: #2A3D53;
+    }
+}

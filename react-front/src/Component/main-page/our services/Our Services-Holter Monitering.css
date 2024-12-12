@@ -1,0 +1,11 @@
+.sec-1 {
+    background-image: url('./Electrocardiogram IMG/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.sec-1 h1 {
+    font-size: 50px;
+}
+.Holter-s2p1 {
+    color: #2A3D53;
+}

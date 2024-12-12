@@ -1,0 +1,62 @@
+
+:root {
+    --color1: rgb(0, 119, 182);
+    --color2: rgb(0, 180, 216);
+    --color3: rgb(144, 224, 239);
+    --color4: rgb(0, 92, 141);
+    --color5: rgb(202, 240, 248);
+    --color6: rgb(126, 126, 126);
+    --color7: rgb(254, 204, 83);
+    --color8: rgb(42, 61, 83);
+
+    --h1-font: 60px;
+    --h2-font: 40px;
+    --h3-font: 34px;
+    --p-font: 16px;
+
+    --h1-font-weight: 700;
+    --h2-font-weight: 600;
+    --h3-font-weight: 600;
+    --p-font-weight: 400;
+}
+.Foot-sec1{
+    background-color: var(--color4);
+    margin-top: 100px;
+}
+
+.Foot-p1{
+    color: var(--color7);
+}
+
+.Foot-s2p2{
+    color: var(--color2);
+}
+
+.s2p1{
+    color: var(--color8);
+}
+.Foot-secs{
+    background-image: url("./Foot Orthotics img/Mask Group 22.jpg");
+    background-repeat: no-repeat;
+  }
+  .Foot-sec-1 {
+    background-image: url('./Foot Orthotics img/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Foot-sec-1 h1 {
+    font-size: 50px;
+}
+
+.Foot-t1{
+    color: var(--color8);
+    font-size: 40px;
+    font-weight: 600;
+}
+.Foot-secs-2{
+    background-image: url("./Foot Orthotics img/Mask Group 22.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right;
+}
+

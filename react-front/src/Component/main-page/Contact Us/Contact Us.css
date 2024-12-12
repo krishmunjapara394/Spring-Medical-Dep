@@ -1,0 +1,63 @@
+.contact-sec-1 {
+    background-image: url('./Contact Us IMG/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.contact-sec-1 h1 {
+    font-size: 50px;
+}
+.contact-sec-2 {
+    margin-top: 100px;
+}
+.form {
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    padding: 30px;
+  }
+.form p {
+    color: red;
+    margin-left:10px;
+}
+
+.contact-input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    resize: vertical;
+  }
+.contact-form-btn {
+    background-color: #00B4D8;
+    color: white;
+}
+.contact-label {
+    color: #2A3D53;
+    font-weight: 500;
+}
+.contact-sec-2 h1 {
+    color: #005C8D;
+    font-weight: 600;
+}
+.contact-sec-2 h6 {
+    color: #2A3D53;
+}
+.contact-sec-2 i {
+    color: #00B4D8;
+}
+.contact-sec2-h6-1 {
+    line-height: 28px;
+}
+.contact-sec2-map {
+    margin-top: 100px;
+}
+
+.contact-sec3-1 {
+    margin-top: 150px;
+    background-color: #FECC53;
+}
+.contact-sec3-1 h1 {
+    color: #2A3D53;
+}
+.contact-sec3-1 p {
+    color: #005C8D;
+}

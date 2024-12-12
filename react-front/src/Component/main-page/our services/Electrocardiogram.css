@@ -1,0 +1,50 @@
+.ele-sec-1 {
+    background-image: url('./Electrocardiogram IMG/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.ele-sec-1 h1 {
+    font-size: 50px;
+}
+.s2p2{
+    color: rgb(0, 180, 216);
+}
+
+.s2p1{
+    color: rgb(42, 61, 83);
+}
+.ele-sec-2 {
+    background-image: url('.//Electrocardiogram IMG/why spring vector.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: scroll;
+}
+.ele-sec3-1 {
+    margin-top: 150px;
+    background-color: #FECC53;
+}
+.ele-sec3-1 h1 {
+    color: #2A3D53;
+}
+.ele-sec3-1 p {
+    color: #005C8D;
+}
+
+@media screen and (max-width:768px) {
+
+    .ele-sec-1 h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .p-2 img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .ele-sec-1 h1 {
+        font-size: 30px;
+    }
+}

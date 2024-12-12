@@ -1,0 +1,15 @@
+.Shockwave-secs-2 {
+    margin-top: 100px;
+}
+
+.Shockwave-p1 {
+    color: #2A3D53;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+@media screen and (max-width:576px) {
+    .Shockwave-p1 {
+        font-size: 30px;
+    }
+}

@@ -1,0 +1,188 @@
+.why-spring-sec-1 {
+    background-image: url('./Why Spring IMG/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.why-spring-sec-1 h1 {
+    font-size: 50px;
+}
+.why-spring-sec-2 {
+    background-image: url('./Why Spring IMG/why spring vector.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: scroll;
+    padding-top: 100px;
+}
+
+.why-spring-sec2-1 h1 , .why-spring-sec2-2 h1 {
+    color: #2A3D53;
+}
+.why-spring-sec2-2 {
+    background-color: #FECC53;
+    border-top-right-radius: 170px;
+    border-bottom-right-radius: 170px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.why-spring-sec2-3 {
+    padding-top:50px;
+    padding-bottom:50px;
+    background-color: white;
+}
+
+
+.why-spring-sec-3 {
+    background-image: url('./Why Spring IMG/vector-2.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: scroll;
+    padding-top: 100px;
+}
+
+.why-spring-sec3-1 h1 , .why-spring-sec3-2 h1 {
+    color: #2A3D53;
+}
+.why-spring-sec3-2 {
+    background-color: #FECC53;
+    border-top-left-radius: 170px;
+    border-bottom-left-radius: 170px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.why-spring-sec3-3 {
+    padding-top:100px;
+    padding-bottom:83px;
+    background-color: white;
+}
+.why-spring-sec-4 {
+    background-color: #00B4D8;
+    color: white;
+    margin-top: 100px;
+}
+.why-spring-sec-5 {
+    margin-top: -170px;
+}
+.why-spring-sec5-1 {
+    background-color: white;
+    box-shadow: 0 0 15px rgb(188, 188, 188);
+    cursor: pointer;
+    width: 250px;
+}
+.why-spring-sec-6 {
+    margin-top: 100px;
+}
+.why-spring-sec-6 h1 {
+    color: #0077B6;
+}
+.why-spring-sec-7 {
+    margin-top: 100px;
+}
+.why-spring-sec7-1 {
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+    padding: 10px 100px;
+    border-radius: 10px;
+}
+.why-spring-sec7-2 {
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+    padding: 10px 40px; 
+    border-radius: 10px;
+}
+.why-spring-sec7-3 {
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+.why-spring-sec8-1 {
+    margin-top: 150px;
+    background-color: #FECC53;
+}
+
+.why-spring-sec8-1 h1 {
+    color: #2A3D53;
+}
+
+.why-spring-sec8-1 p {
+    color: #005C8D;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1400px) {
+    .why-spring-sec2-3 {
+        padding:50px;
+    }
+    .why-spring-sec3-3 {
+        padding:80px;
+    }
+    .why-spring-sec5-1 {
+        width: 200px;
+        height: 250px;
+    }
+}
+@media screen and (max-width:1106px) {
+    .why-spring-sec5-1 {
+        width: 190px;
+        height: auto;
+    }
+}
+@media screen and (max-width:1024px) {
+    .why-spring-sec5-1 {
+        width: 180px;
+        height: auto;
+    }
+}
+@media screen and (max-width:992px) {
+    .why-spring-sec2-2 {
+        background-color: #FECC53;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .why-spring-sec2-3 {
+        background-color: #FECC53;
+    }
+    .why-spring-sec3-2 {
+        background-color: #FECC53;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .why-spring-sec3-3 {
+        background-color: #FECC53;
+    }
+    .why-spring-sec5-1 {
+        width: 200px;
+        height: 230px;
+    }
+
+}
+@media screen and (max-width:768px) {
+    .why-spring-sec-1 h1 {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width:575px) {
+    .why-spring-sec2-img1 img{
+        width: 100%;
+    }
+    .why-spring-sec3-img1 img{
+        width: 100%;
+    }
+    .why-spring-sec3-3 {
+        padding: 50px 0px 0px 0px;
+    }
+
+}

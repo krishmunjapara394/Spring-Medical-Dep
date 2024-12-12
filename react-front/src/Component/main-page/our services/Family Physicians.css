@@ -1,0 +1,36 @@
+
+.Family-sec1 {
+    background-color: #005C8D;
+    margin-top: 100px;
+}
+
+.Family-p1 {
+    color: #FECC53;
+}
+
+.Family-s2p2 {
+    color: #00B4D8;
+}
+
+.Family-s2p1 {
+    color: #2A3D53;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+
+.Family-secs {
+    background-image: url('../Home Page/IMG/back-design.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.sec-1 {
+    background-image: url('./Family Physicians IMG/blog-1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.sec-1 h1 {
+    font-size: 50px;
+}
